@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897574474013",
+    "project_id": "dms-backend-42c71",
+    "storage_bucket": "dms-backend-42c71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897574474013:android:4b9b6818235ef7a0a191f4",
+        "android_client_info": {
+          "package_name": "com.example.dms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKtDNrNqE_V8M0Xj6E9YIq96-c9QF2Xyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
